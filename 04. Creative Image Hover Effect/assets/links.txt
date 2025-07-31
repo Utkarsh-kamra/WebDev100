@@ -1,0 +1,2 @@
+- To customize image shape
+https://bennettfeely.com/clippy/
