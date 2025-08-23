@@ -1,0 +1,2 @@
+- Download a Image and use "remove.bg" to remove their background.
+- Because some icons are not avilable online as Original (for ex: Amazon Logo for Making Amazon clone). 
